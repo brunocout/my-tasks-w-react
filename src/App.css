@@ -1,0 +1,9 @@
+.container {
+    margin: 30px auto;
+    overflow: auto;
+    border: 2px solid rebeccapurple;
+    max-width: 500px;
+    min-height: 200px;
+    border-radius: 3px;
+    padding: 20px;
+}
