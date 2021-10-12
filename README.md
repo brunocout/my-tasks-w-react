@@ -11,3 +11,5 @@ Usando a api [JsonPlaceholder](https://jsonplaceholder.cypress.io/) que traz tar
 
 ## Api
 1. [JsonPlaceholder](https://jsonplaceholder.cypress.io/)
+2. [Axios](https://www.npmjs.com/package/axios)
+3. [React-router-dom](https://www.npmjs.com/package/react-router-dom)
